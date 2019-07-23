@@ -17,5 +17,3 @@ ul.appendChild(li)
 element.appendChild(ul);
 
 ul.style.textAlign = 'left';
-
-
